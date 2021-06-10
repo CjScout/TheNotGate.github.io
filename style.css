@@ -1,0 +1,115 @@
+.topBar {
+  position: center;
+  height: 20%;
+  width: 100%;
+  text-align: center;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-size: 300%;
+}
+
+h2 {
+  color: black;
+  font-size: 220%;
+}
+
+h3 {
+  color: black;
+  font-size: 150%;
+}
+
+.button {
+  color: black;
+  background-color: blue;
+}
+
+.mainFeed {
+  position: absolute;
+  height: 80%;
+  width: 83%;
+  left: 20px;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  position: absolute;
+  width: 100%;
+  bottom: 5px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.Article1 {
+  position: absolute;
+  color: black;
+  left: 1%;
+  top: 1%;
+  height: 40%;
+  width: 42%;
+}
+
+.Article2 {
+  position: absolute;
+  color: black;
+  right: 1%;
+  top: 1%;
+  height: 40%;
+  width: 42%;
+}
+
+.Article3 {
+  position: absolute;
+  color: black;
+  left: 1%;
+  top: 60%;
+  height: 40%;
+  width: 42%;
+}
+
+.Article4 {
+  position: absolute;
+  color: black;
+  right: 1%;
+  top: 60%;
+  height: 40%;
+  width: 42%;
+}
+
+.thumbnail {
+  position: absolute;
+  left: 1%;
+  height: 80%;
+  width: 60%;
+}
+
+.Title {
+  position: absolute;
+  top: 75%;
+  font-size: 150%;
+}
+
+.description {
+  position: absolute;
+  top: 0%;
+  left: 70%;
+  font-size: 100%;
+}
+
+.sideBar {
+  position: absolute;
+  right: 0%;
+  width: 15%;
+  height: 80%;
+}
+
+.sideText {
+  font-size: 100%;
+  position: absolute;
+  left: 25%;
+}
